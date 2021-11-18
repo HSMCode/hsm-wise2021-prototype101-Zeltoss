@@ -16,6 +16,7 @@ public class PrototypeDebug : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+       // Hello, hier koennte ihre Werbung stehen!
        Debug.Log("spaaaaaaaaaaaaaaaaaaam!"); 
     }
 }
