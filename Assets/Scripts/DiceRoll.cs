@@ -19,7 +19,7 @@ public class DiceRoll : MonoBehaviour
         
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            int diceRoll = Random.Range(1, 20);
+            int diceRoll = Random.Range(1,21);
 
             if (diceRoll == 6 || diceRoll == 13 || diceRoll == 17)
             {
