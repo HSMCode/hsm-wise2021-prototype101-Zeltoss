@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class ArrayTest : MonoBehaviour
 {
-
     public int dice = 0;
     public int luckyNumber1 = 6;
     public int luckyNumber2 = 12;
@@ -23,11 +22,5 @@ public class ArrayTest : MonoBehaviour
         luckyNumberArray[0] = 6;
         luckyNumberArray[1] = 12;
         luckyNumberArray[2] = 18;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

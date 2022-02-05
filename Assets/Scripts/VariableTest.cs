@@ -45,12 +45,4 @@ public class VariableTest : MonoBehaviour
         Debug.Log(" Neu Neu Neu " + myThirdInteger);
 
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-       
-        
-
-    }
 }

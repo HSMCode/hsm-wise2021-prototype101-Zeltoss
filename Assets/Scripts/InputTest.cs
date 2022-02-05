@@ -5,21 +5,10 @@ using UnityEngine;
 public class InputTest : MonoBehaviour
 {
     public int numberOne = 1;
-
     public int numberTwo = 20;
-    
     public int numberThree = 0;
 
-
-
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+    // checking how often you pressed the space key. After every pressed key, another If-Statement gets triggered.
     void Update()
     {
        
